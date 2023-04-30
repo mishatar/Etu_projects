@@ -1,0 +1,7 @@
+RIGHT= d
+LEFT= a
+UP= w
+DOWN= s
+SAVE= e
+LOAD= l
+EXIT= q
